@@ -1,4 +1,4 @@
-
+# Shoppingfy
 
 This project seeks to serve as a collaborative development experience, from creating a project from scratch to deploying the application. Created by [João Pedro](https://github.com/joao-pedrozo), inspired by one of the challenges of the "[devchallenges](https://devchallenges.io/)" platform, technologies normally used in a real project in a company will be used.
 
